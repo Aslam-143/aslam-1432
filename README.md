@@ -1,4 +1,4 @@
-
+<h1>aslam<h1>
 <h1 align="center">Hi 👋, I'm Aslam Jamadar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src"?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3SEeVjwRFYLcpNI3b9pw50&ust=1746963649335000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJihzPDomI0DFQAAAAAdAAAAABAE">
